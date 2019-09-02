@@ -8,8 +8,6 @@
 
 #include "state_machine.h"
 
-#include <stdio.h>
-#include <stdlib.h>
 
 
 void sm_create(state_machine_t *sm, uint8_t max_state, uint8_t max_event)

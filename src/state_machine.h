@@ -10,6 +10,7 @@
 
 #include <stdint.h> // for uint8_t
 #include <stdio.h> // for printf
+#include <stdlib.h> // for rand
 
 
 typedef enum SM_CTRL_e {
